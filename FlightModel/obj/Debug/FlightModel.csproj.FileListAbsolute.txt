@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\FlightModel\FlightModel\FlightModel\bin\Debug\FlightModel.exe.config
+C:\Users\user\Desktop\FlightModel\FlightModel\FlightModel\bin\Debug\FlightModel.exe
+C:\Users\user\Desktop\FlightModel\FlightModel\FlightModel\bin\Debug\FlightModel.pdb
+C:\Users\user\Desktop\FlightModel\FlightModel\FlightModel\obj\Debug\FlightModel.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FlightModel\FlightModel\FlightModel\obj\Debug\FlightModel.exe
+C:\Users\user\Desktop\FlightModel\FlightModel\FlightModel\obj\Debug\FlightModel.pdb
